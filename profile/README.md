@@ -6,7 +6,7 @@ Welcome to the NetWatcher Group! We're dedicated to building robust network moni
 Here's a list of our main projects and their current build statuses:
 
 ### Guardian (backend)
-[![Build Status](https://ci.example.com/status/image1)](https://ci.example.com/status/link1)
+[![Build Status](https://github.com/netwatcherio/guardian/actions/workflows/go.yml/badge.svg)](https://github.com/netwatcherio/guardian)
 - The backend heart of NetWatcher. 
 - [More about NW-Guardian](https://github.com/netwatcherio/guardian)
 
@@ -16,7 +16,7 @@ Here's a list of our main projects and their current build statuses:
 - [More about NW-Client](https://github.com/netwatcherio/netwatcher-client)
 
 ### Agent
-[![Build Status](https://ci.example.com/status/image2)](https://ci.example.com/status/link2)
+[![Build Status](https://github.com/netwatcherio/netwatcher-agent/actions/workflows/go.yml/badge.svg)](https://github.com/netwatcherio/netwatcher-agent)
 - The application used to run checks & tests against agent probe targets.
 - [More about NW-Client](https://github.com/netwatcherio/netwatcher-client)
 
